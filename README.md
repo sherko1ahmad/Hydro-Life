@@ -31,3 +31,7 @@ A relay module is interfaced with the Arduino Uno to manage electrical devices. 
 Connection to External Devices:
 
 The relay is linked to external devices, such as power outlets or electrical equipment, enabling the Arduino Uno to regulate their operation based on predefined conditions.
+
+
+
+![demo](./demo.jpg)
