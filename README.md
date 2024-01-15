@@ -36,3 +36,4 @@ The relay is linked to external devices, such as power outlets or electrical equ
 
 ![demo](./demo.jpg)
 ![demo](./demo2.jpg)
+![demo](./demo3.jpg)
